@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="01 / OPERATOR PROFILE">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#F4AD42"/><stop offset=".6" stop-color="#72D7E7" stop-opacity=".6"/><stop offset="1" stop-color="#72D7E7" stop-opacity="0"/></linearGradient></defs>
+  <rect width="1200" height="56" fill="#0b1015"/>
+  <path d="M0 8H26L36 18H1200" fill="none" stroke="#293742" stroke-width="1"/>
+  <path d="M0 48H1200" stroke="url(#l)" stroke-width="1.5"/>
+  <rect x="24" y="18" width="3" height="22" fill="#F4AD42"/>
+  <text x="40" y="36" font-family="Consolas,'Courier New',monospace" font-size="20" font-weight="700" letter-spacing="3" fill="#F4AD42">01</text>
+  <text x="80" y="36" font-family="Consolas,'Courier New',monospace" font-size="20" letter-spacing="3" fill="#A9B7C2">/</text>
+  <text x="100" y="36" font-family="Consolas,'Courier New',monospace" font-size="20" font-weight="700" letter-spacing="4" fill="#F3F5F7">OPERATOR PROFILE</text>
+  <text x="1170" y="34" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="11" letter-spacing="2" fill="#72D7E7" opacity=".7">SEC.01</text>
+  <circle r="3" cy="48" fill="#F4AD42"><animate attributeName="cx" from="0" to="1200" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="7s" repeatCount="indefinite"/></circle>
+</svg>
