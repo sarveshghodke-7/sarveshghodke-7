@@ -30,18 +30,18 @@ I'm Sarvesh Ghodke, a computer science student interested in software engineerin
 Resume-oriented project exploring NLP, OCR, and AI-assisted resume generation.
 - **Stack:** Python, Flask, spaCy, Tesseract OCR, MySQL, Gemini API.
 - **Status:** project prototype; not currently presented as a deployed service.
-- **Repository:** [Add repository link](https://github.com/sarveshghodke-7/career_lens)
+- **Repository:** [CareerLens](https://github.com/sarveshghodke-7/career_lens)
 
 ### Annada App
 Agriculture-focused mobile application built with a team, with features including weather information, fertilizer calculation, localization, and Firebase integration.
 - **Stack:** Flutter, Dart, Firebase.
-- **Repository:** [Add repository link](https://github.com/sarveshghodke-7/Annada)
+- **Repository:** [Annada](https://github.com/sarveshghodke-7/Annada)
 
 ### SG-07 / THE ARCHITECT
 A personal portfolio designed as a tactical engineering interface, combining a dark technical visual identity with interactive sections and a simulated in-memory terminal.
 - **Stack:** React, TypeScript, Vite, GSAP, Motion.
-- **Repository:** [Add repository link](TODO_PORTFOLIO_REPO_URL)
-- **Live site:** [Add deployed portfolio URL](TODO_PORTFOLIO_URL)
+- **Repository:** [Portfolio](TODO_PORTFOLIO_REPO_URL)
+- **Live site:** [Yet to Deploy](TODO_PORTFOLIO_URL)
 
 ## `03 / TECHNICAL ARSENAL`
 
